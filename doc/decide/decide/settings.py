@@ -44,7 +44,6 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
     'rest_framework_swagger',
     'gateway',
-    'herokuapp',
 ]
 
 REST_FRAMEWORK = {
